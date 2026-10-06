@@ -1,6 +1,6 @@
-# **Project Title**
+# Machine Learning for Young Modulus Indentification #
 
-## **Simulated Lamb-Wave for Young Modulus Identification**
+## **Simulated Lamb-Wave and Using CNN & PINN for Predicting Modulus**
 
 ## **Team and Responsibilities**
 
